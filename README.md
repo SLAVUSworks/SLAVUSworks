@@ -80,7 +80,7 @@ Seseorang yang sudah menghabiskan keseharian berkecimpung didunia IT, menghabisk
 
 [![Dashboard stats of @SLAVUSworks](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=88041664&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=88041664)
 
-| Repository Performance Stats - Last 28 days | Contribution Time Distribution |
+| Contribution Time Distribution | Repository Performance Stats |
 | ----------- | ----------- |
 |[![Contribution Time Distribution of @SLAVUSworks](https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=88041664&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=all_times&user_id=88041664)|[![@SLAVUSworks's Recent Work - Last 28 days](https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=88041664&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=88041664)
 
