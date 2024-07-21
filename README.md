@@ -6,7 +6,7 @@
 <br>
 
 <picture>
-  <img alt="moecounter" src="https://counter.due.moe/get/@slavus?theme=rule34">
+  <img alt="moecounter" src="ttps://count.getloli.com/get/@slavusworks?theme=rule34">
 </picture>
 </div>
 
