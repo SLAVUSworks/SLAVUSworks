@@ -5,7 +5,9 @@
 <br>
 <br>
 
-![:name](https://counter.due.moe/get/@slavus?theme=rule34)
+<picture>
+  <img alt="moecounter" src="https://counter.due.moe/get/@slavus?theme=rule34">
+</picture>
 </div>
 
 <h4 align="center">
