@@ -44,8 +44,6 @@ Seseorang yang sudah menghabiskan keseharian berkecimpung didunia IT, menghabisk
   <img width="12" />
   <img style="filter: brightness(0) invert(1);" src="./assets/nodedotjs.png" height="40" alt="#"  />
   <img width="12" />
-  <img style="filter: brightness(0) invert(1);" src="./assets/ubuntu.png" height="40" alt="#"  />
-  <img width="12" />
   <img style="filter: brightness(0) invert(1);" src="./assets/tailwindcss.png" height="40" alt="#"  />
   <img width="12" />
   <img style="filter: brightness(0) invert(1);" src="./assets/bootstrap.png" height="40" alt="#"  />
