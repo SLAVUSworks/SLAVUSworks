@@ -1,7 +1,5 @@
-# SLAVUSworks <a href="https://saweria.co/slavusworks" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SLAVUSworks/KanColle-Indonesia-Patch-KCCP/development/Non-Game%20Assets/saweriabtn.png"  width="150"/></a>
-
 <div align="center">
-<small>a k a . &nbsp;p r o g r a m m e r&nbsp; k r o c o</small>
+<small>S L A V U S w o r k s</small>
 <br>
 <br>
 
@@ -10,11 +8,11 @@
 </div>
 
 <h4 align="center">
-  <a href="https://slavuwus.rf.gd">Website</a>
+  <a href="https://https://slavusworks.my.id/">Website</a>
   •
   <a href="https://www.facebook.com/aghaslavus/">Facebook</a>
   •
-  <a href="https://x.com/AghaSlavus">Twitter</a>
+  <a href="https://x.com/AghaSlavus">X</a>
   •
   <a href="https://discordapp.com/users/496615293506813952">Discord</a>
   •
@@ -22,12 +20,12 @@
   •
   <a href="https://www.instagram.com/aghaslavus/">Instagram</a>
   •
-  <a href="https://wa.me/6282392797234">Pesan Rendang Asli Bukittinggi</a>
+  <a href="https://wa.me/6282392797234">Business Contact</a>
 </h3>
 
-## Kehidupan
+## About
 
-Seseorang yang sudah menghabiskan keseharian berkecimpung didunia IT, menghabiskan waktu sehari hari hanya didepan Komputer, menghabiskan hari demi hari dengan sadar dan tidak sadar mempelajari sedikit banyaknya hal dari keseharian tersebut. Berawal dari merasa bosan menghabiskan banyak waktu memainkan _Game Online_ dan ingin mempelajari hal lain.
+Web Developer & IT Support Technician with experience in full-stack web development, server management, and hardware troubleshooting. Skilled in Laravel, PHP, JavaScript, Tailwind CSS, Linux server administration, and Git-based workflows. Passionate about cybersecurity, AI, and open-source projects. Currently leading SLAVUSworks while working on freelance development and IT support projects.
 
 ## Tech Stack
 
@@ -86,13 +84,3 @@ Seseorang yang sudah menghabiskan keseharian berkecimpung didunia IT, menghabisk
 </div>
 
 ###
-
-###
-
-## Last Track
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31uul6woyelbo445shg46ewtbify">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uul6woyelbo445shg46ewtbify&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
